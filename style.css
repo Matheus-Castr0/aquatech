@@ -29,6 +29,10 @@ body{
     color: #32B9CD;
 }
 
+.navbar a:first-child li{
+    font-weight: bold;
+}
+
 .header{
     border-bottom: 3px solid #32B9CD;
 }
